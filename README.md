@@ -47,7 +47,7 @@ Pozitif değer küçülmeyi, negatif değer büyümeyi ifade eder.
 > Buraya YouTube linkini ekle (Unlisted önerilir): **PASTE_LINK_HERE**
 
 ## GitHub Repo
-> Repo linkini buraya koy: **PASTE_GITHUB_REPO_LINK_HERE**
+> Repo linkini buraya koy: https://github.com/suatsametkomurcu/BLM101_24360859016_SuatSametKomurcu
 
 ## Kaynakça
 - BLM101 Dönem Projesi yönergesi (ders dokümanı).
@@ -55,3 +55,5 @@ Pozitif değer küçülmeyi, negatif değer büyümeyi ifade eder.
 - Brookshear, J. G. & Brylow, D. (2014). *Computer Science: An Overview (12th Global Edition)*, Bölüm 1.4 ve 1.9.
 - Salomon, D. (2007). *Data Compression: The Complete Reference*.
 - Wikipedia: Run-length encoding.
+- Chatgpt.
+- Gemini.
