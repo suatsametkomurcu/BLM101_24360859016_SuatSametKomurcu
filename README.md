@@ -44,10 +44,10 @@ Pozitif değer küçülmeyi, negatif değer büyümeyi ifade eder.
 - RLE, özellikle **tekrarın yüksek olduğu** verilerde avantajlıdır; tekrar az ise veri büyüyebilir.
 
 ## YouTube Sunum Linki
-> Buraya YouTube linkini ekle (Unlisted önerilir): **PASTE_LINK_HERE**
+https://www.youtube.com/watch?v=NHG7rJjhluM
 
 ## GitHub Repo
-> Repo linkini buraya koy: https://github.com/suatsametkomurcu/BLM101_24360859016_SuatSametKomurcu
+https://github.com/suatsametkomurcu/BLM101_24360859016_SuatSametKomurcu
 
 ## Kaynakça
 - BLM101 Dönem Projesi yönergesi (ders dokümanı).
